@@ -1,0 +1,41 @@
+[28-May-18 6:44:00 PM] The server is running at port 8081 ...
+[28-May-18 6:44:00 PM] The local End point is  :127.0.0.1:8081
+[28-May-18 6:44:00 PM] Waiting for a connection.....
+Error..... System.Net.Sockets.SocketException    at System.Net.Dns.InternalGetHostByAddress(IPAddress address, Boolean includeIPv6)
+   at System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 126
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 132
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 131
+[28-May-18 8:29:23 PM] The server is running at port  8081...
+[28-May-18 8:29:23 PM] The local End point is  :127.0.0.1:8081
+[28-May-18 8:29:23 PM]  Waiting for a connection.....
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133

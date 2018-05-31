@@ -1,0 +1,15 @@
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\client_server.exe.config
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\client_server.exe
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\client_server.pdb
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\Google.Protobuf.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\MySql.Data.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\Renci.SshNet.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\Google.Protobuf.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\MySql.Data.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\bin\Release\Renci.SshNet.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\obj\Release\client_server.Form1.resources
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\obj\Release\client_server.Properties.Resources.resources
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\obj\Release\client_server.csproj.GenerateResource.Cache
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\obj\Release\client_server.exe
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\obj\Release\client_server.pdb
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\obj\Release\client_server.csprojResolveAssemblyReference.cache

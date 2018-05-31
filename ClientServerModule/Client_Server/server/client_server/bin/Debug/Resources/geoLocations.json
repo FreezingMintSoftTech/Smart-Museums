@@ -1,0 +1,1 @@
+{ "museums": { "museum": [ { "name": "Muzeu de test","latitude": "4","longitude": "2","radius": "0" },{ "name": "TestMuseum","latitude": "3.42","longitude": "1.72","radius": "2" }] } }

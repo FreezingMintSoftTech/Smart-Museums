@@ -1,0 +1,15 @@
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\client_serverTests.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\client_serverTests.pdb
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\client_server.exe
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\MySql.Data.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\Renci.SshNet.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\Google.Protobuf.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\client_server.pdb
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\MySql.Data.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\Renci.SshNet.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\bin\Release\Google.Protobuf.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\obj\Release\client_serverTests.csprojResolveAssemblyReference.cache
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\obj\Release\client_serverTests.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_serverTests\obj\Release\client_serverTests.pdb

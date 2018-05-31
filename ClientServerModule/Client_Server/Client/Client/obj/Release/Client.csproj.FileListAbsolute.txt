@@ -1,0 +1,14 @@
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Client.exe.config
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Client.exe
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Client.pdb
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Google.Protobuf.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\MySql.Data.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Google.Protobuf.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\MySql.Data.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\obj\Release\Client.exe
+C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\Client\Client\obj\Release\Client.pdb

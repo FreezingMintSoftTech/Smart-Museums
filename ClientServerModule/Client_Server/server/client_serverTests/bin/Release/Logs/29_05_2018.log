@@ -1,0 +1,12 @@
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
+Error..... System.Net.Sockets.SocketException    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   at Server.Server.Main() in C:\Users\abucevschi\Desktop\smart-museum-client-server-module\Client_Server\server\client_server\Server.cs:line 133
